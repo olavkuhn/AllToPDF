@@ -208,6 +208,6 @@ if uploaded_file is not None:
 st.divider()
 st.markdown(
     "<p style='text-align: center; color: gray; font-size: 0.9rem;'>"
-    "Met ❤️ gemaakt speciaal voor jou.</p>",
+    "Met ❤️ gemaakt speciaal voor jou Mama!.</p>",
     unsafe_allow_html=True,
 )
