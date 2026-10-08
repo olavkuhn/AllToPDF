@@ -7,7 +7,12 @@ authors = [
     { name = "Callisto Casale", email = "callisto.casale@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "fpdf2>=2.8.9",
+    "pillow>=12.3.0",
+    "python-docx>=1.2.0",
+    "streamlit>=1.65.0",
+]
 
 [project.scripts]
 alltopdf = "alltopdf:main"
